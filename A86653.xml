@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To all you commanders and officers of the army in Scotland, especially: and to all elsewhere.</title>
+            <author>Howgill, Francis, 1618-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86653</idno>
+            <idno type="STC">Wing H3183</idno>
+            <idno type="STC">ESTC R178362</idno>
+            <idno type="EEBO-CITATION">45789348</idno>
+            <idno type="OCLC">ocm 45789348</idno>
+            <idno type="VID">172657</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86653)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172657)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2643:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To all you commanders and officers of the army in Scotland, especially: and to all elsewhere.</title>
+                  <author>Howgill, Francis, 1618-1669.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1657]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: Francis Howgill.</note>
+                  <note>Date and place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland. --  Army --  History --  1649-1660 --  Sources.</term>
+               <term>Liberty of conscience --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:172657:1" rendition="simple:additions"/>
+            <head>To all you Commanders and Officers of the Army in <hi>Scotland,</hi> eſpecially: and to all elſewhere.</head>
+            <p>WHO have been eye witneſſes of the favour and kindnes of the Lord unto you, and have been partakers of many and great deliverances, who have ſeen the power of the Lord going be<g ref="char:EOLhyphen"/>fore you, and his righteouſneſſe being your rereward, when they ſaid in their hearts, you ſhould become as a booty unto them, and as a prey to feed upon, then the Lord appeared for his own name ſake, and did lift up a ſtandard againſt them, and made them as dri<g ref="char:EOLhyphen"/>ven ſtubble before the bow, even when they ſwelled as <hi>Jordan,</hi> not that you might glory in ſtrength, nor in your own activity, but in him who taught your hands to war, and your fingers to fight, even when you were but low, weak and unable, in your own ſight, then did he appear in his ſtrengh, that none might glory but in him, whoſe arm hath brought Salvation, and hath given your lives for a prey; And hath raiſed up many of you from low eſtate, even as from the ſheepfold, to be Rulers of thouſands and hundreds, of fifties and tens. Conſider the years paſt, and call to mind the for<g ref="char:EOLhyphen"/>mer days of old, and ſee where you are now, if you are not dege<g ref="char:EOLhyphen"/>nerated from the firſt integrity, &amp; fallen into the ſame practice, &amp; abomination as they were in, whom the Lord ſcattered before you, caſt out as an abominable branch; &amp; do not think in your hearts that the Lord hath given your enemies into your hands, and made them tributary unto you, that ſo you might glory in your ſtrength, &amp; grow up to the ſame abomination of the Nation, and follow the luſts of your hearts, &amp; ſwell up in pride through the aboundance of ſpoyl &amp; treaſure. But it was well ſaid by the Prophet, When <hi>Ephraim</hi> ſpake trembling he exalted himſelf in <hi>Iſrael,</hi> but when he offended in <hi>Ba<g ref="char:EOLhyphen"/>al</hi> he died; and this was a commandment to <hi>Iſrael,</hi> that when they came into the Land which the Lord gave to their Fathers, they were not to worſhip ſtrange Gods, neither to walk after the cuſtome of the Heathen: What was the cauſe, do ye judge, that God bla<g ref="char:EOLhyphen"/>ſted the enemies in this Land, and turned their counſell backwards,
+<pb n="2" facs="tcp:172657:2" rendition="simple:additions"/>and their wiſdome into folly, and made their Prophets fools, and their Deviners mad? was it becauſe you were more then they, or your ſtrength geater then theirs, let that in your conſciences judg? Or was it becauſe the Lord was weary with the Oppreſſion of the Rulers, who grinded the faces of the poor, and with the Hypocriſie of the Prieſts and Teachers, and with the falſe-heartedneſſe of the people, for every one dealt falſly and treacherouſly with the Lord? And yet they were ſo proud, they could not be content herewith, but as the mouth of hell is never ſatisfied, no more were they ex<g ref="char:EOLhyphen"/>cept all would bow down to their King whom they would have ſet up, and the Prieſts for their Calfe were ſo zealous, either muſt all ſubmit to this, or elſe nothing but fire and ſword, and deſtruction on the right hand, and on the left was threatned, but the Lord ſaw the pride of <hi>Moab,</hi> and conſidered it, and made her ſerve who ſat as a Queen; Not becauſe, as I ſay, you were great, or mightier, or ſtronger, but for his own name ſake, and for making way for a further thing, which many yet cannot ſee, even that his everlaſting truth might find way and be publiſhed, according to his own will, for the advancement of his own glory: and he will declare it by whom he will, and where he will, and when he will, though to the croſſing of all mens wills; although ſome would hedge him up by a Law made in their wills, or limit him to a time; and many ſhut his Meſſengers out, and ſay as <hi>Amaziah</hi> the Prieſt of <hi>Bethel</hi> to <hi>Amos,</hi> this is the Kings Chappel, or as ſome ſay a Garriſon, or ſome prohibited place by a Law; yet that which would limit the holy one muſt be made even with Earth.</p>
+            <p>Hath the Lord caſt them out, and hath planted you in, and hath he given you Dominion over Provinces, Towns and Cities, which you builded not, that you ſhould walk in their footſteps, oh nay be ſure of this the Lord will viſit you for theſe things; Are not many of you countenancing the Prieſts and Teachers of this Nation, and upholding the ſame worſhip, which ſome of you in years paſt would have been aſhamed of, and are not you going to learn of them, and to be taught by them, who before <hi>Dunbar,</hi> Prophecyed all your deſtruction, and your totall overthrow, and delivered you up to Satan as Heriticks: and ſo were made falſe Prophets, and tellers of lies in the ſight of all their own Nation, and alſo to your underſtan<g ref="char:EOLhyphen"/>ding:
+<pb n="3" facs="tcp:172657:2" rendition="simple:additions"/>and were they deceived then, and falſe Prophets then, and incendaries to imbroyl all the poor people of this Nation in blood to fight for their imagined calfe Presbitery; and are they now be<g ref="char:EOLhyphen"/>come your Teachers? O tell it not in <hi>Gath,</hi> nor publiſh it not in <hi>Askellon,</hi> leaſt the uncircumciſed rejoyce and laugh at your folly; Will you joyn to <hi>Baal,</hi> and ſerve <hi>Aſhteroth?</hi> oh let <hi>Baal</hi> plead for himſelfe: And muſt theſe now be upholden by the Sword, as the Miniſters of Chriſt, and be defended? Will you ſuffer them to put out your eyes, that they may make you grind like <hi>Sampſon</hi> at a Mill? Are not they all out of the Doctrin of Chriſt, and out of the practice of all Prophets, Chriſt and his Miniſtry? Are not they time-ſervers, hirelings, greeedy of filthy lucre, fierce, deſpiſers of thoſe that are good? Are not they wholly without the life of god<g ref="char:EOLhyphen"/>lineſſe, and alſo quite without a true form? ſearch the Scriptures and ſee if they declare not againſt all ſuch practiſes. Truly I may ſay, as the Prophet ſaid of the Prieſts of <hi>Jeruſalem, Prophaneſſe is gone out from them into all Nations, for they have daubed with untem<g ref="char:EOLhyphen"/>pered morter, and luld people in ſecurity, and have cryed peace unto them, when they have all walked according to the Imaginations of their own hearts;</hi> in few words this I ſay unto you, The helper and hel<g ref="char:EOLhyphen"/>ped will both fall together.</p>
+            <p>Againe, Another great evill is found amongſt you, who ſome<g ref="char:EOLhyphen"/>times have been aſſerters of liberty, and have ſaid, it would be great happines to obtain liberty of conſcience, to worſhip God in Spirit and truth, as he was made manifeſt; but now, when you are tried, you are ſetting to have your ſelves worſhipped with caps &amp; knees, and in language, ſuch as all the holy men of God never owned nor knew, and have forgotten the rock from whence you were hewn; have you not turned ſome of the Souldiers out of the Army, who have jeoperded their ſives in the time of the greteſt ſtraits in the high places in the field, onely for conſcience ſake, becauſe they cannot ſubmit to your wills, nor give that to man which belongs to God, and this hath the Lord againſt you. Therefore all be warned in time, and take heed you ſwell not up in pride, and walk lofty upon the mountains of arrogancy, for pride goes before deſtruction, nei<g ref="char:EOLhyphen"/>ther learne ye the cuſtomes of them whom the Lord hath brought down, leſt the ſame be your portion as theirs, and take heed of eaſe
+<pb n="4" facs="tcp:172657:3" rendition="simple:additions"/>in the fleſh, and of doing violence to the honeſt, and them that fear the Lord amongſt you, for then you bear the Sword in vaine, and are no Souldiers for God; but the Sword is to be turned againſt the violent doer, &amp; you ought to be an incouragement to them that do well, but how far ſome of you is from this, the light of Chriſt in your conſciences will let you ſee. Let me tell you, the Lord hath made ſome of you inſtrumental to levell the mountains without, &amp; to cut down the rough places which were not paſſable, ſee that you boaſt not your <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elvs againſt him that hewd with you: for as I ſaid be<g ref="char:EOLhyphen"/>fore, this which is done is but a all preparation to ſomthing further, which he himſelfe will bring and is bringing about, &amp; that by weak things, &amp; things that are not, ſee you deſpiſe it not, &amp; ſo looſ the re<g ref="char:EOLhyphen"/>ward of all you have done, for not by might, nor by power, nor by ſword ſhield, or buckler without, but by his own arm will he bring ſalvation, and exalt his own horn above all his enemies, &amp; will bring ſalvation to his own feed. And now oh be wiſe &amp; reſiſt him not in his way leſt ye be numbred amongſt Tranſgreſſors, &amp; your memo<g ref="char:EOLhyphen"/>rial wear out, &amp; you periſh amogſt them that gainſay.</p>
+            <p>Now he is bringing down the mountains within, and ſtaining the pride and glory of all fleſh, and ſifting the Nations, and all the chaffe ſhall be blown a<g ref="char:EOLhyphen"/>way, and all abominations ſhall be brought to judgement, and the dead great and ſmall ſhall ariſe, and every one ſhall receive according to his works, for he is riſen in his ſtrength as a man of war, to wound the head of the Dragon in the Sea, and to put a hook in the mouth of Leviathan, the old Dragon, and he is come to bind him, &amp; to chain him up that he deceive the Nations no more. And this he will doe, and is bringing to paſſe by the little ſtone cut out of the mountaine without hands, he will ſmite downe the great Image of pro<g ref="char:EOLhyphen"/>feſſion, and make their carkaſſes fall with their Idols, that nothing but him<g ref="char:EOLhyphen"/>ſelfe may raigne: that all may know that the moſt high rules in the King<g ref="char:EOLhyphen"/>dome of the children: therefore love juſtice, truth, and righteouſnes, and be not examples of evill to the Nations, neither to your Souldery, nor open not the mouths of the Heathen, nor ſtrengthen the hand of evill-doers, leaſt you fall together: but all mind that which ſearcheth the hearts, and ſhews you ſin, and will preſerve you out of it; if you (the light which comes from Chriſt which he hath enlightned you withall) mind, here is your teacher and leader preſent, &amp; if you hate it, it will condemn you, &amp; all your actions to<g ref="char:EOLhyphen"/>gether, &amp; miſery will be the end, harden not your hearts againſt inſtruction, leſt you periſh amongſt fools, &amp; there be no more rembrance of you.</p>
+            <closer>
+               <dateline>
+                  <hi>Leith,</hi> 
+                  <date>145 Month, called <hi>July</hi> 1657.</date>
+               </dateline>
+            </closer>
+            <byline>
+               <hi>By a friend to righteouſnes and juſt power,</hi> FRANCIS HOWGILL.</byline>
+         </div>
+      </body>
+   </text>
+</TEI>
